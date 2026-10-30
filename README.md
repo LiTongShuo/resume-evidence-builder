@@ -1,5 +1,7 @@
 # Resume Evidence Builder
 
+中文 | [English](README.en.md)
+
 [![Validate Evidence Skill](https://github.com/LiTongShuo-edu/resume-evidence-builder/actions/workflows/validate.yml/badge.svg)](https://github.com/LiTongShuo-edu/resume-evidence-builder/actions/workflows/validate.yml)
 
 `resume-evidence-builder` 是一个 Agent Skill，用于把项目资料、公开链接和验证记录整理为结构化的证据台账，并在撰写介绍材料前检查陈述是否有可追溯依据。它适用于作品集说明、项目总结、成果页面和简历等需要区分“已验证事实”与“待确认表述”的场景。
